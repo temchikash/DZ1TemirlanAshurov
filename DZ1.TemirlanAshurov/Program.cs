@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DZ1.TemirlanAshurov
+namespace DZ1TemirlanAshurov
 {
     internal class Program
     {
